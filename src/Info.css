@@ -1,0 +1,19 @@
+.info__bar {
+  background-color: #37475a;
+}
+p {
+  height: 100%;
+  width: 100%;
+  color: white;
+  font-size: 12px;
+  padding: 10px;
+  text-align: center;
+}
+.learn__info {
+  padding-left: 5px;
+  color: white !important;
+  text-decoration: none;
+}
+.learn__info link:active {
+  text-decoration: cornsilk;
+}

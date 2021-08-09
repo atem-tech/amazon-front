@@ -1,0 +1,13 @@
+.footer__rapper {
+  background-color: teal;
+  /* display: flex; */
+}
+.footer__rapper {
+  display: flex;
+}
+.link__rapper {
+  flex-direction: column;
+}
+/* .footer__rapper link {
+  flex-direction: column;
+} */
